@@ -1,4 +1,4 @@
-Hi, I'm Abdalla Shalby from Egypt
+Greetings, I'm Abdalla Shalaby
 - 👀 I’m interested programming websites and softwares
 - 🌱 I’m currently C++, html, css, js and Arduino
 - 📫 My email:abdallashalaby11@gmail.com
